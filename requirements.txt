@@ -1,7 +1,7 @@
 TgCrypto
 pyrogram
 py-tgcalls==0.8.1
-yt-dlp==2021.11.10.1
+git+https://github.com/akganthesm/beater@master
 requests
 aiohttp
 aiofiles
