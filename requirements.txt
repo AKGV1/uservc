@@ -1,6 +1,6 @@
 TgCrypto
 pyrogram
-py-tgcalls==0.8.1
+py-tgcalls
 git+https://github.com/adityacheats/downloader@master
 requests
 aiohttp
@@ -10,5 +10,5 @@ wget
 python-arq
 python-dotenv
 gTTS
-googletrans==4.0.0rc1
+googletrans
 git+https://github.com/AKGV1/ytseach@master
