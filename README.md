@@ -1,6 +1,4 @@
-# 📀 𝐕𝐂𝐔𝐬𝐞𝐫𝐁𝐨𝐭
 
-## √𝙏𝙚𝙖𝙢✘𝙊𝙘𝙩𝙖𝙫𝙚
 
 # NOTE JUST AN ENGLISH VERSION OF OUR PRIVATE SOURCE 
 
