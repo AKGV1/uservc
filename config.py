@@ -9,7 +9,7 @@ if os.path.exists(".env"):
     load_dotenv(".env")
 
 # Necessary Vars
-API_ID = int(os.getenv("API_ID"))
+API_ID = os.getenv("API_ID", "6435225"))
 API_HASH = os.getenv("API_HASH")
 SESSION = os.getenv("SESSION")
 HNDLR = os.getenv("HNDLR", "/")
